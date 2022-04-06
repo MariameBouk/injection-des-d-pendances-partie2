@@ -20,6 +20,17 @@ Les commandes mvn
 
 ![image](https://user-images.githubusercontent.com/101976300/161968467-7a9ad1f2-8171-4288-9f23-ac5009b60839.png)
 
+vérification :
+
+![image](https://user-images.githubusercontent.com/101976300/161968765-f3f53a4c-1874-4388-af0e-8b8933ed46ac.png)
+
+4- mvn install :
+
+![image](https://user-images.githubusercontent.com/101976300/161968999-3393093f-6118-4299-86ac-0270afd28f9b.png)
+
+5- mvn clean :
+
+![image](https://user-images.githubusercontent.com/101976300/161970490-3645ba5b-6749-44d2-87bc-2de19cbced4e.png)
 
 
 
